@@ -22,19 +22,19 @@ Please follow these prep step instructions, but make sure you have forked and cl
 4. Edit line 3 of the reset.css file and change license from none to MIT
 5. Change line 6 of ukdocs.yml from UNIX to index
 6. Answer prompt on movie.md file
+7. Checkout the 'feature' branch
+
 
 ### Test 1: Make a commit in the CLI
 
 
 1. Start your timer
-2. Launch the CLI
-3. Use the cd command to change directory to where your repo is located. For example, I used `cd ~/Sites/Commit-Time-Test`
-4. Checkout the `feature` branch
-5. Stage changes from index.html, mkdocs.yml, and music.md using `git add` command
-6. Commit changes using `git commit` command. 
+2. In the CLI, use the cd command to change directory to where your repo is located. For example, I used `cd ~/Sites/Commit-Time-Test`
+3. Stage changes from index.html, mkdocs.yml, and music.md using `git add` command
+4. Commit changes using `git commit` command. 
           Commit message: "Personalized bio and fixed typo"
           Commit description: "Updated the name and bio in the index.html file, shared a favorite song, and changed GitCrack to GitKraken.
-7. Stop timer and write down duration.
+5. Stop timer and write down duration. 
 
 
 
@@ -42,14 +42,11 @@ Please follow these prep step instructions, but make sure you have forked and cl
 
 
 1. Start your timer
-2. Launch GitKraken
-3. Open repo
-4. Checkout the `feature` branch
-5. Stage changes from reset.css, ukdocs.yml, and movie.md using Commit Panel
-6. Commit changes with the following mesage and descrition.
+2. In GitKraken, open the repo and stage changes from reset.css, ukdocs.yml, and movie.md using Commit Panel
+3. Commit changes with the following mesage and descrition.
           Commit message: "Updated license type and fixed typo"
           Commit description: "Updated the license type in the reset.css file, shared a favorite movie, and changed UNIX to index.
-7. Stop timer and write down duration.
+4. Stop timer and write down duration.
 
 
 That's it! Please submit your durations to your test proctor. Thanks so much for your help.
