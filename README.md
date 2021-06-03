@@ -16,13 +16,14 @@ Please follow these prep step instructions, but make sure you have forked and cl
 
 ### Pre-test: Make changes
 
-1. Edit lines 45 and 46 of the index.html
-2. Fix typo in line 1 of mkdocs.yml so it says GitKraken Documentation
-3. Answer prompt on music.md file
-4. Edit line 3 of the reset.css file and change license from none to MIT
-5. Change line 6 of ukdocs.yml from UNIX to index
-6. Answer prompt on movie.md file
-7. Checkout the 'feature' branch
+1. Checkout the 'feature' branch
+2. Edit lines 45 and 46 of the index.html
+3. Fix typo in line 1 of mkdocs.yml so it says GitKraken Documentation
+4. Answer prompt on music.md file
+5. Edit line 3 of the reset.css file and change license from none to MIT
+6. Change line 6 of ukdocs.yml from UNIX to index
+7. Answer prompt on movie.md file
+
 
 
 ### Test 1: Make a commit in the CLI
