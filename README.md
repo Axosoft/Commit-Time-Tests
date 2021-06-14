@@ -49,4 +49,4 @@ Please follow these prep step instructions, but make sure you have forked and cl
 4. Stop timer and write down duration.
 
 
-That's it! Please submit your durations to your test proctor. Thanks so much for your help.
+That's it! Please submit your durations AND operating system to Jonathan over Slack. Thanks so much for your help.
