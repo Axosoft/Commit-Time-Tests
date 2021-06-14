@@ -7,8 +7,7 @@ Thanks for helping us with this project! We're looking to get 2 durations from y
 
 ### What you need
 
-- Please first fork this repo on GitHub
-- Clone your fork to your local machine (it's okay to use GK)
+- Clone this repo to your local machine (it's okay to use GK)
 - Have a text editor handy (VS Code, Atom, Notepad++ etc)
 - Locate the stopwatch feature on your phone or any other app
 
