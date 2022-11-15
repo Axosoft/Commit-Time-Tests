@@ -37,6 +37,13 @@ Please follow these prep step instructions, but make sure you have forked and cl
 5. Stop timer and write down duration. 
 
 
+PAUSE HERE!!
+
+Do 1 of the following before moving on to Test 2
+ - Delete local repo and re-clone
+ - Hard reset feature branch in GK to remove commit from Test 1.
+
+
 
 ### Test 2: Make a commit in the GK
 
@@ -45,6 +52,11 @@ Please follow these prep step instructions, but make sure you have forked and cl
 2. In GitKraken, open the repo and stage changes from reset.css, ukdocs.yml, and movie.md using Commit Panel
 3. Commit changes with the following mesage and descrition.
           Commit message: "Updated license type and fixed typo"
+=======
+2. In GitKraken, open the repo and stage changes from reset.css, ukdocs.yml, and movie.md using Commit Panel
+3. Commit changes with the following mesage and descrition.
+          Commit message: "Updated license type and fixed typo" to make more changes
+>>>>>>> fe183c7... Revert "Second iteration"
           Commit description: "Updated the license type in the reset.css file, shared a favorite movie, and changed UNIX to index.
 4. Stop timer and write down duration.
 
